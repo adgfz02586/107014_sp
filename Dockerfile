@@ -1,4 +1,4 @@
-# Version: 0.1.2
+# Version: e.g., 0.0.3
 FROM python:3.6
 
 WORKDIR /app
